@@ -19,5 +19,6 @@ sudo apt-get remove --purge ffmpeg
 sudo apt-add-repository ppa:mc3man/trusty-media
 sudo apt-get install ffmpeg
 sudo pip install cython==0.20
+sudo apt-get install python-imaging
 ./vatic-install.sh
 
